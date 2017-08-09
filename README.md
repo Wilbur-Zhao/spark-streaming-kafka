@@ -1,2 +1,1 @@
-# spark-streaming-kafka
-spark-streaming-kafka
+Version 0.1
